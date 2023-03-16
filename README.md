@@ -22,7 +22,7 @@ We also implemented advanced analytics and data visualization techniques to gain
 
 Overall, the experience of participating in this hackathon project was incredibly rewarding. I was able to work with a team of talented professionals, learn new skills, and make a meaningful contribution to the development of a solution package that could help solve a pressing business challenge.
 
-You can download the entire Figma project file [here](https://www.figma.com/file/BYRpQEkosEHEAz9eOCtllj/Air_Canada_BrainStation_Hackathon_Industry_Project_Vandelay_Solutions?t=fWVQPYmcQaV5X2io-1).
+You can view the entire Figma project file [here](https://www.figma.com/file/BYRpQEkosEHEAz9eOCtllj/Air_Canada_BrainStation_Hackathon_Industry_Project_Vandelay_Solutions?t=fWVQPYmcQaV5X2io-1).
 
 
 
